@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pipenv run flake8 *.py aoc tests --max-line-length=100
